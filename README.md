@@ -18,7 +18,7 @@ A sleek, real-time weather application that fetches live data using the OpenWeat
 
 ## 📸 Screenshot
 
-![App Screenshot](assets/screenshot.png).
+![App Screenshot](assets/screenshot.png)
 
 ## 🌐 Live Demo
 
